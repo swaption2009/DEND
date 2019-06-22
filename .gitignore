@@ -41,3 +41,6 @@ config.rst
 
 package-lock.json
 geckodriver.log
+
+# skip big file
+/data/data-pipelines/data-pipeline-dataset-creation.zip
